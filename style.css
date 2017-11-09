@@ -23,6 +23,8 @@ ul li {
 
 nav ul li {a
   text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
 }
 
 body {
