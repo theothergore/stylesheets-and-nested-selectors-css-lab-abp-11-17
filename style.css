@@ -18,8 +18,13 @@ nav ul {
 
 ul li {
   display: inline;
-  margin-right: 10px
+  margin-right: 10px;
 }
+
+nav ul li {a 
+  text-decoration: none;
+}
+]
 
 body {
   padding: 0 30px 0 30px;
