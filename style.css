@@ -7,6 +7,10 @@ header {
   border-bottom: 1px solid #cccccc
 }
 
+header nav {
+  float: right;
+}
+
 body {
   padding: 0 30px 0 30px;
 }
